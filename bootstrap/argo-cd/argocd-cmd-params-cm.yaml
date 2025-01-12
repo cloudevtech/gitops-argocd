@@ -12,4 +12,4 @@ data:
   server.basehref: "/argo-cd"
   # Used if Argo CD is running behind reverse proxy under subpath different from /
   server.rootpath: "/argo-cd"
-  server.insecure: "false"
+  server.insecure: "true"
